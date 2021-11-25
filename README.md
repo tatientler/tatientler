@@ -1,6 +1,6 @@
 ### Hi! I'm Tatiane Entler 👋
 
-🌱 I’m currently learning how programming HTML, CSS e JavaScript
+🌱 I’m currently learning HTML, CSS and JavaScript
 
 
 <div align="center">
