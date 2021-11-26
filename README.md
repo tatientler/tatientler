@@ -18,6 +18,7 @@
   ##
   
 <div> 
+  <a href="https://linkedin.com/in/tatiane-camargo-entler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caio-sergio-santos" height="30" width="40" /></a>
   <a href = "mailto:tatiane.entler@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tatiane-camargo-entler-52588365/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
