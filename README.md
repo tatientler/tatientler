@@ -1,4 +1,4 @@
-### Hi! I'm Tatiane Entler 👋
+<h2>Hi! I'm Tatiane Entler 👋</h2>
 
 🌱 I’m currently learning HTML, CSS and JavaScript
 
