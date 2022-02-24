@@ -21,7 +21,7 @@
   
   ##
   
-  <h3>Conect with me:</h3>
+  <h3>Connect with me:</h3>
   
 <div> 
   <a href = "mailto:tatiane.entler@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
