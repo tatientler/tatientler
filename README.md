@@ -1,6 +1,6 @@
 <h2>Hi! I'm Tatiane Entler 👋</h2>
 
-🌱 I’m currently studying in a Bootcamp of Full Stack Development at Tera and I'm learning about: HTML5, CSS3, JavaScript, BootStrap, Node.Js, Express, Mongo DB, API's Integration, React, Python, Flash, SQL, AWS and Agile Mindset. 
+🌱 I’m currently studying in a Bootcamp of Full Stack Development at Tera and I'm learning about: HTML5, CSS3, JavaScript, BootStrap, Node.Js, Express, Mongo DB, API's Integration, React, Python, Flask, SQL, AWS and Agile Mindset. 
 
 :books: At the same time, I am studying the same technologies at Alura to reinforce my learning.
 
