@@ -5,7 +5,7 @@ Here we go...
 💻 I'm working as Front-End Developer using:
  - React + JavaScript;
  - HTML / CSS;
- -Styled-components.
+ - Styled-components.
 
 📖 I'm studying Full Stack Development at Estácio de Sá University and I'll be gratuated by the end of 2025.
 
