@@ -1,9 +1,26 @@
-<h2>Hi! I'm Tatiane Entler 👋</h2>
+<h2>Hi! I'm Tatiane <img height="32" src="https://github.com/itsalle/itsalle/raw/main/images/Hi.gif"></h2>
 
-🌱 I’m currently studying in a Bootcamp of Full Stack Development at Tera and I'm learning about: HTML5, CSS3, JavaScript, BootStrap, Node.Js, Express, Mongo DB, API's Integration, React, Python, Flask, SQL, AWS and Agile Mindset. 
+Here we go...
 
-:books: At the same time, I am studying the same technologies at Alura to reinforce my learning.
+💻 I'm working as Front-End Developer, using:
+ - React + JavaScript;
+ - HTML / CSS;
+ -Styled-components.
 
+📖 I'm studying Full Stack Development at Universidade Estácio de Sá and the finished preview is 2025.
+
+🎓 I'm a Foreign Trade graduate at FATEC Zona Leste.
+
+📚 Courses:
+ - Bootcamp of Full Stack Development at Tera (500h) - HTML5, CSS3, Javascript, BootStrap, Node.Js, Express, Mongo DB, APIs Integration, React, Python, Flask, SQL, AWS, and Agile Mindset.
+ - Front-End Qualification at Alura (150h) - HTML, CSS, Web Accessibility, CSS Architecture, SEO, JavaScript, Regular Expressions.
+ - React at Alura - Componentization, Props, State, Assets, Router.
+
+🗣️ Languages:
+ - Portuguese - Native
+ - English - Intermediate
+
+👩‍💻 You can also access my personal projects here.
 
 <div align="center">
   <a href="https://github.com/tatientler">
