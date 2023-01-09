@@ -2,14 +2,12 @@
 
 Here we go...
 
-💻 I'm working as Front-End Developer, using:
+💻 I'm working as Front-End Developer using:
  - React + JavaScript;
  - HTML / CSS;
  -Styled-components.
 
-📖 I'm studying Full Stack Development at Universidade Estácio de Sá and the finished preview is 2025.
-
-🎓 I'm a Foreign Trade graduate at FATEC Zona Leste.
+📖 I'm studying Full Stack Development at Estácio de Sá University and I'll be gratuated by the end of 2025.
 
 📚 Courses:
  - Bootcamp of Full Stack Development at Tera (500h) - HTML5, CSS3, Javascript, BootStrap, Node.Js, Express, Mongo DB, APIs Integration, React, Python, Flask, SQL, AWS, and Agile Mindset.
@@ -17,8 +15,8 @@ Here we go...
  - React at Alura - Componentization, Props, State, Assets, Router.
 
 🗣️ Languages:
- - Portuguese - Native
- - English - Intermediate
+ - Portuguese → Native
+ - English → CEFR - B2
 
 
 <div align="center">
