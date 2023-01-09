@@ -20,7 +20,6 @@ Here we go...
  - Portuguese - Native
  - English - Intermediate
 
-👩‍💻 You can also access my personal projects here.
 
 <div align="center">
   <a href="https://github.com/tatientler">
