@@ -7,8 +7,6 @@ Here we go...
  - HTML / CSS;
  - Styled-components.
 
-📖 I'm studying Full Stack Development at Estácio de Sá University and I'll be gratuated by the end of 2025.
-
 📚 Courses:
  - Bootcamp of Full Stack Development at Tera (500h) - HTML5, CSS3, Javascript, BootStrap, Node.Js, Express, Mongo DB, APIs Integration, React, Python, Flask, SQL, AWS, and Agile Mindset.
  - Front-End Qualification at Alura (150h) - HTML, CSS, Web Accessibility, CSS Architecture, SEO, JavaScript, Regular Expressions.
